@@ -1,0 +1,7 @@
+pandas
+requests
+tqdm
+pydantic
+statsmodels
+openpyxl
+beautifulsoup4

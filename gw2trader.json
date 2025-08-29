@@ -1,0 +1,2690 @@
+{
+  "items": {
+    "data": [
+      {
+        "id": 27408,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Shadow Chevalier Shield Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 101749,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/A00BCA4B25F62609B9A709464506020DD1BD051A/3301822.png",
+        "href": "/item/shadow-chevalier-shield-skin-101749",
+        "stats": {
+          "highestBuyPrice": 1007487,
+          "lowestSellPrice": 1909999,
+          "priceDelta": null,
+          "profit": 616012,
+          "roi": null,
+          "marketCap": 35978263,
+          "volume24h": 23467446,
+          "highestBuyPriceFormatted": {
+            "copper": 87,
+            "silver": 74,
+            "gold": 100,
+            "length": 7
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 99,
+            "silver": 99,
+            "gold": 190,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 12,
+            "silver": 60,
+            "gold": 61,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 24709,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Celestial Infusion (Blue)",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 81919,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/CDC035E50BDB51A2D14B0840792160620E0FE468/1729286.png",
+        "href": "/item/celestial-infusion-blue-81919",
+        "stats": {
+          "highestBuyPrice": 1469999,
+          "lowestSellPrice": 2120098,
+          "priceDelta": null,
+          "profit": 332084,
+          "roi": null,
+          "marketCap": 161405181,
+          "volume24h": 14720494,
+          "highestBuyPriceFormatted": {
+            "copper": 99,
+            "silver": 99,
+            "gold": 146,
+            "length": 7
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 98,
+            "silver": 0,
+            "gold": 212,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 84,
+            "silver": 20,
+            "gold": 33,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 19936,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Arthropoda",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "Weapon",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 44983,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/A89C72FAC651F07B6AEDE096C6C754565F0A4173/619827.png",
+        "href": "/item/arthropoda-44983",
+        "stats": {
+          "highestBuyPrice": 965607,
+          "lowestSellPrice": 1499995,
+          "priceDelta": null,
+          "profit": 309388,
+          "roi": null,
+          "marketCap": 92179710,
+          "volume24h": 19179957,
+          "highestBuyPriceFormatted": {
+            "copper": 7,
+            "silver": 56,
+            "gold": 96,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 95,
+            "silver": 99,
+            "gold": 149,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 88,
+            "silver": 93,
+            "gold": 30,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 554875,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Seven Reapers Spear Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 105029,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/23234CE4A609F3762A6066B40997D811114D7EDB/3645742.png",
+        "href": "/item/seven-reapers-spear-skin-105029",
+        "stats": {
+          "highestBuyPrice": 1100002,
+          "lowestSellPrice": 1640002,
+          "priceDelta": null,
+          "profit": 293999,
+          "roi": null,
+          "marketCap": 50449817,
+          "volume24h": 24739890,
+          "highestBuyPriceFormatted": {
+            "copper": 2,
+            "silver": 0,
+            "gold": 110,
+            "length": 7
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 2,
+            "silver": 0,
+            "gold": 164,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 99,
+            "silver": 39,
+            "gold": 29,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 21827,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "+14 Agony Infusion",
+        "description": null,
+        "rarity": "Ascended",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 49437,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/3504CD3199285BC1293FAE249ACF9461C50994DB/1465586.png",
+        "href": "/item/+14-agony-infusion-49437",
+        "stats": {
+          "highestBuyPrice": 1450002,
+          "lowestSellPrice": 1947575,
+          "priceDelta": null,
+          "profit": 205436,
+          "roi": null,
+          "marketCap": 274416293,
+          "volume24h": 11688550,
+          "highestBuyPriceFormatted": {
+            "copper": 2,
+            "silver": 0,
+            "gold": 145,
+            "length": 7
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 75,
+            "silver": 75,
+            "gold": 194,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 36,
+            "silver": 54,
+            "gold": 20,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 26480,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Abyss Stalker Sword Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 95546,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/F8CF1B3C08E91E02B196D90C08E134AB69BFBA3B/2571053.png",
+        "href": "/item/abyss-stalker-sword-skin-95546",
+        "stats": {
+          "highestBuyPrice": 656569,
+          "lowestSellPrice": 1000001,
+          "priceDelta": null,
+          "profit": 193431,
+          "roi": null,
+          "marketCap": 80402881,
+          "volume24h": 12029246,
+          "highestBuyPriceFormatted": {
+            "copper": 69,
+            "silver": 65,
+            "gold": 65,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 1,
+            "silver": 0,
+            "gold": 100,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 31,
+            "silver": 34,
+            "gold": 19,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 55218,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Imperial Everbloom Dagger Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 104212,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/B0A86614DBBAB2C9E104DF2C4F639CF44A6CED15/3584449.png",
+        "href": "/item/imperial-everbloom-dagger-skin-104212",
+        "stats": {
+          "highestBuyPrice": 200124,
+          "lowestSellPrice": 457775,
+          "priceDelta": null,
+          "profit": 188984,
+          "roi": null,
+          "marketCap": 108877340,
+          "volume24h": 12133542,
+          "highestBuyPriceFormatted": {
+            "copper": 24,
+            "silver": 1,
+            "gold": 20,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 75,
+            "silver": 77,
+            "gold": 45,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 84,
+            "silver": 89,
+            "gold": 18,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 55118,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Mystical Beast Spear Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 103677,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/5EBCFD95443B03DB3E26F64C08D193B94109EF35/3429331.png",
+        "href": "/item/mystical-beast-spear-skin-103677",
+        "stats": {
+          "highestBuyPrice": 1270656,
+          "lowestSellPrice": 1699900,
+          "priceDelta": null,
+          "profit": 174259,
+          "roi": null,
+          "marketCap": 40937137,
+          "volume24h": 33793515,
+          "highestBuyPriceFormatted": {
+            "copper": 56,
+            "silver": 6,
+            "gold": 127,
+            "length": 7
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 0,
+            "silver": 99,
+            "gold": 169,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 59,
+            "silver": 42,
+            "gold": 17,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 25831,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Glyph of Alchemy (Unused)",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Container",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 90664,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/E2047B083C4AC30C296203CF01FFB347479C1402/2155917.png",
+        "href": "/item/glyph-of-alchemy-unused-90664",
+        "stats": {
+          "highestBuyPrice": 333335,
+          "lowestSellPrice": 550000,
+          "priceDelta": null,
+          "profit": 134165,
+          "roi": null,
+          "marketCap": 168509073,
+          "volume24h": 51938451,
+          "highestBuyPriceFormatted": {
+            "copper": 35,
+            "silver": 33,
+            "gold": 33,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 0,
+            "silver": 0,
+            "gold": 55,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 65,
+            "silver": 41,
+            "gold": 13,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 25652,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Polysaturating Reverberating Infusion (Red)",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 89059,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/F31FD3154C9E41EDB6D124EFEFA2B3F4EA455069/2056193.png",
+        "href": "/item/polysaturating-reverberating-infusion-red-89059",
+        "stats": {
+          "highestBuyPrice": 1000006,
+          "lowestSellPrice": 1299899,
+          "priceDelta": null,
+          "profit": 104908,
+          "roi": null,
+          "marketCap": 116236239,
+          "volume24h": 14599994,
+          "highestBuyPriceFormatted": {
+            "copper": 6,
+            "silver": 0,
+            "gold": 100,
+            "length": 7
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 99,
+            "silver": 98,
+            "gold": 129,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 8,
+            "silver": 49,
+            "gold": 10,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 55215,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Imperial Everbloom Greatsword Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 104209,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/610DF19E044462999F95050304AB3B1FF717F801/3584471.png",
+        "href": "/item/imperial-everbloom-greatsword-skin-104209",
+        "stats": {
+          "highestBuyPrice": 260575,
+          "lowestSellPrice": 429898,
+          "priceDelta": null,
+          "profit": 104838,
+          "roi": null,
+          "marketCap": 122225672,
+          "volume24h": 10787212,
+          "highestBuyPriceFormatted": {
+            "copper": 75,
+            "silver": 5,
+            "gold": 26,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 98,
+            "silver": 98,
+            "gold": 42,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 38,
+            "silver": 48,
+            "gold": 10,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 24202,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Ghostly Infusion",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 77274,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/297E4B766AFB54E8FBA14A1970A495EAA558F630/1302736.png",
+        "href": "/item/ghostly-infusion-77274",
+        "stats": {
+          "highestBuyPrice": 450413,
+          "lowestSellPrice": 650495,
+          "priceDelta": null,
+          "profit": 102507,
+          "roi": null,
+          "marketCap": 259491957,
+          "volume24h": 15551254,
+          "highestBuyPriceFormatted": {
+            "copper": 13,
+            "silver": 4,
+            "gold": 45,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 95,
+            "silver": 4,
+            "gold": 65,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 7,
+            "silver": 25,
+            "gold": 10,
+            "length": 6
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 27385,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Necrotic Essence Warhorn Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 101445,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/5C1242C1FAC328E9F2B2C4CB4743A81FDFFCD002/3255535.png",
+        "href": "/item/necrotic-essence-warhorn-skin-101445",
+        "stats": {
+          "highestBuyPrice": 200006,
+          "lowestSellPrice": 350005,
+          "priceDelta": null,
+          "profit": 97498,
+          "roi": null,
+          "marketCap": 57510502,
+          "volume24h": 15320620,
+          "highestBuyPriceFormatted": {
+            "copper": 6,
+            "silver": 0,
+            "gold": 20,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 5,
+            "silver": 0,
+            "gold": 35,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 98,
+            "silver": 74,
+            "gold": 9,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 27395,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Necrotic Essence Staff Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 101578,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/7BB4DFD41504D66AE23242DCCD41087DDD64A277/3255503.png",
+        "href": "/item/necrotic-essence-staff-skin-101578",
+        "stats": {
+          "highestBuyPrice": 162325,
+          "lowestSellPrice": 299998,
+          "priceDelta": null,
+          "profit": 92673,
+          "roi": null,
+          "marketCap": 32958687,
+          "volume24h": 11859406,
+          "highestBuyPriceFormatted": {
+            "copper": 25,
+            "silver": 23,
+            "gold": 16,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 98,
+            "silver": 99,
+            "gold": 29,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 73,
+            "silver": 26,
+            "gold": 9,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 27396,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Necrotic Essence Torch Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 101584,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/C106D1050D65AC0C7D052268F9BF0A15B3534A98/3255525.png",
+        "href": "/item/necrotic-essence-torch-skin-101584",
+        "stats": {
+          "highestBuyPrice": 143005,
+          "lowestSellPrice": 239999,
+          "priceDelta": null,
+          "profit": 60994,
+          "roi": null,
+          "marketCap": 24027890,
+          "volume24h": 11548999,
+          "highestBuyPriceFormatted": {
+            "copper": 5,
+            "silver": 30,
+            "gold": 14,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 99,
+            "silver": 99,
+            "gold": 23,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 94,
+            "silver": 9,
+            "gold": 6,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 25865,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Peerless Infusion",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 91202,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/07D06928ED0B241D5111B7A8607EFF9BB0329405/2155911.png",
+        "href": "/item/peerless-infusion-91202",
+        "stats": {
+          "highestBuyPrice": 960023,
+          "lowestSellPrice": 1200000,
+          "priceDelta": null,
+          "profit": 59977,
+          "roi": null,
+          "marketCap": 214337214,
+          "volume24h": 17539643,
+          "highestBuyPriceFormatted": {
+            "copper": 23,
+            "silver": 0,
+            "gold": 96,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 0,
+            "silver": 0,
+            "gold": 120,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 77,
+            "silver": 99,
+            "gold": 5,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 24517,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Winter''s Heart Infusion",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 79978,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/EE68160F571F59549B02CA246ED9742CEDCC9AB6/1614397.png",
+        "href": "/item/winters-heart-infusion-79978",
+        "stats": {
+          "highestBuyPrice": 782837,
+          "lowestSellPrice": 989999,
+          "priceDelta": null,
+          "profit": 58662,
+          "roi": null,
+          "marketCap": 638950133,
+          "volume24h": 12779886,
+          "highestBuyPriceFormatted": {
+            "copper": 37,
+            "silver": 28,
+            "gold": 78,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 99,
+            "silver": 99,
+            "gold": 98,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 62,
+            "silver": 86,
+            "gold": 5,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 24216,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Ghostly Infusion",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 77394,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/297E4B766AFB54E8FBA14A1970A495EAA558F630/1302736.png",
+        "href": "/item/ghostly-infusion-77394",
+        "stats": {
+          "highestBuyPrice": 528031,
+          "lowestSellPrice": 689205,
+          "priceDelta": null,
+          "profit": 57793,
+          "roi": null,
+          "marketCap": 153473721,
+          "volume24h": 11019674,
+          "highestBuyPriceFormatted": {
+            "copper": 31,
+            "silver": 80,
+            "gold": 52,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 5,
+            "silver": 92,
+            "gold": 68,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 93,
+            "silver": 77,
+            "gold": 5,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 24208,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Ghostly Infusion",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 77316,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/297E4B766AFB54E8FBA14A1970A495EAA558F630/1302736.png",
+        "href": "/item/ghostly-infusion-77316",
+        "stats": {
+          "highestBuyPrice": 541247,
+          "lowestSellPrice": 691140,
+          "priceDelta": null,
+          "profit": 46222,
+          "roi": null,
+          "marketCap": 182175191,
+          "volume24h": 16631208,
+          "highestBuyPriceFormatted": {
+            "copper": 47,
+            "silver": 12,
+            "gold": 54,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 40,
+            "silver": 11,
+            "gold": 69,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 22,
+            "silver": 62,
+            "gold": 4,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 27401,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Necrotic Essence Scepter Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 101646,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/AFE5B636D55150FB1106685EDE256EDA32C30668/3255471.png",
+        "href": "/item/necrotic-essence-scepter-skin-101646",
+        "stats": {
+          "highestBuyPrice": 180004,
+          "lowestSellPrice": 259998,
+          "priceDelta": null,
+          "profit": 40994,
+          "roi": null,
+          "marketCap": 37016440,
+          "volume24h": 10651849,
+          "highestBuyPriceFormatted": {
+            "copper": 4,
+            "silver": 0,
+            "gold": 18,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 98,
+            "silver": 99,
+            "gold": 25,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 94,
+            "silver": 9,
+            "gold": 4,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 24207,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Ghostly Infusion",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 77310,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/297E4B766AFB54E8FBA14A1970A495EAA558F630/1302736.png",
+        "href": "/item/ghostly-infusion-77310",
+        "stats": {
+          "highestBuyPrice": 620107,
+          "lowestSellPrice": 777653,
+          "priceDelta": null,
+          "profit": 40898,
+          "roi": null,
+          "marketCap": 527069958,
+          "volume24h": 48694674,
+          "highestBuyPriceFormatted": {
+            "copper": 7,
+            "silver": 1,
+            "gold": 62,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 53,
+            "silver": 76,
+            "gold": 77,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 98,
+            "silver": 8,
+            "gold": 4,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 25616,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Polysaturating Reverberating Infusion (Gray)",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 89007,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/7CC8F41D1F3F320FD75F04CDE12E135B9E0F0DBC/2056191.png",
+        "href": "/item/polysaturating-reverberating-infusion-gray-89007",
+        "stats": {
+          "highestBuyPrice": 443492,
+          "lowestSellPrice": 564999,
+          "priceDelta": null,
+          "profit": 36757,
+          "roi": null,
+          "marketCap": 389519638,
+          "volume24h": 14724895,
+          "highestBuyPriceFormatted": {
+            "copper": 92,
+            "silver": 34,
+            "gold": 44,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 99,
+            "silver": 49,
+            "gold": 56,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 57,
+            "silver": 67,
+            "gold": 3,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 27399,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Necrotic Essence Sword Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 101636,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/10BC7271031BA36B750D5B0EE4C1804F6154420D/3255514.png",
+        "href": "/item/necrotic-essence-sword-skin-101636",
+        "stats": {
+          "highestBuyPrice": 376027,
+          "lowestSellPrice": 485622,
+          "priceDelta": null,
+          "profit": 36751,
+          "roi": null,
+          "marketCap": 79865779,
+          "volume24h": 29160815,
+          "highestBuyPriceFormatted": {
+            "copper": 27,
+            "silver": 60,
+            "gold": 37,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 22,
+            "silver": 56,
+            "gold": 48,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 51,
+            "silver": 67,
+            "gold": 3,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 19785,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Celestial Pearl Sabre",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "Weapon",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 43862,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/9BBF12452129E90C7FD30C0EF60A630A507ECDEF/67808.png",
+        "href": "/item/celestial-pearl-sabre-43862",
+        "stats": {
+          "highestBuyPrice": 100229,
+          "lowestSellPrice": 159979,
+          "priceDelta": null,
+          "profit": 35753,
+          "roi": null,
+          "marketCap": 8893021,
+          "volume24h": 10244225,
+          "highestBuyPriceFormatted": {
+            "copper": 29,
+            "silver": 2,
+            "gold": 10,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 79,
+            "silver": 99,
+            "gold": 15,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 53,
+            "silver": 57,
+            "gold": 3,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 19786,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Charged Quartz Orichalcum Ring",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "Trinket",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 43863,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/D7C5796FDD530ADD310318DD12CA48B533EA9A64/455591.png",
+        "href": "/item/charged-quartz-orichalcum-ring-43863",
+        "stats": {
+          "highestBuyPrice": 141056,
+          "lowestSellPrice": 205500,
+          "priceDelta": null,
+          "profit": 33619,
+          "roi": null,
+          "marketCap": 29410793,
+          "volume24h": 10274877,
+          "highestBuyPriceFormatted": {
+            "copper": 56,
+            "silver": 10,
+            "gold": 14,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 0,
+            "silver": 55,
+            "gold": 20,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 19,
+            "silver": 36,
+            "gold": 3,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 27400,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Necrotic Essence Dagger Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 101641,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/AB5096683193059CDF1EE604ECDE37C7A2A9FC2A/3255386.png",
+        "href": "/item/necrotic-essence-dagger-skin-101641",
+        "stats": {
+          "highestBuyPrice": 250118,
+          "lowestSellPrice": 332500,
+          "priceDelta": null,
+          "profit": 32507,
+          "roi": null,
+          "marketCap": 34698583,
+          "volume24h": 15310809,
+          "highestBuyPriceFormatted": {
+            "copper": 18,
+            "silver": 1,
+            "gold": 25,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 0,
+            "silver": 25,
+            "gold": 33,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 7,
+            "silver": 25,
+            "gold": 3,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 20322,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Deldrimor Steel Plated Dowel",
+        "description": null,
+        "rarity": "Masterwork",
+        "type": "CraftingMaterial",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 45832,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/F5F45490B3B24896705256CAC67768DFC3CD0EC3/631172.png",
+        "href": "/item/deldrimor-steel-plated-dowel-45832",
+        "stats": {
+          "highestBuyPrice": 171006,
+          "lowestSellPrice": 236533,
+          "priceDelta": null,
+          "profit": 30047,
+          "roi": null,
+          "marketCap": 116195901,
+          "volume24h": 10880404,
+          "highestBuyPriceFormatted": {
+            "copper": 6,
+            "silver": 10,
+            "gold": 17,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 33,
+            "silver": 65,
+            "gold": 23,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 47,
+            "silver": 0,
+            "gold": 3,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 26536,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Dragon''s Insight",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "Weapon",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 95814,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/72BC443D4FBE512332255B56214ED6DBD83A3804/2596890.png",
+        "href": "/item/dragons-insight-95814",
+        "stats": {
+          "highestBuyPrice": 1250879,
+          "lowestSellPrice": 1505000,
+          "priceDelta": null,
+          "profit": 28371,
+          "roi": null,
+          "marketCap": 69998333,
+          "volume24h": 10769916,
+          "highestBuyPriceFormatted": {
+            "copper": 79,
+            "silver": 8,
+            "gold": 125,
+            "length": 7
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 0,
+            "silver": 50,
+            "gold": 150,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 71,
+            "silver": 83,
+            "gold": 2,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 55244,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Shimmering Aurora Spear Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 104341,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/ECB7C0466D9495D74A707705171E780A7A1BA645/3592817.png",
+        "href": "/item/shimmering-aurora-spear-skin-104341",
+        "stats": {
+          "highestBuyPrice": 1210114,
+          "lowestSellPrice": 1450114,
+          "priceDelta": null,
+          "profit": 22482,
+          "roi": null,
+          "marketCap": 79958706,
+          "volume24h": 36929265,
+          "highestBuyPriceFormatted": {
+            "copper": 14,
+            "silver": 1,
+            "gold": 121,
+            "length": 7
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 14,
+            "silver": 1,
+            "gold": 145,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 82,
+            "silver": 24,
+            "gold": 2,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 20887,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Zojja''s Berserker Insignia",
+        "description": null,
+        "rarity": "Ascended",
+        "type": "CraftingMaterial",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 46719,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/133502D7B8B19E3D6942F554A8B5483BE1C7FADF/699295.png",
+        "href": "/item/zojjas-berserker-insignia-46719",
+        "stats": {
+          "highestBuyPrice": 179099,
+          "lowestSellPrice": 236091,
+          "priceDelta": null,
+          "profit": 21578,
+          "roi": null,
+          "marketCap": 156813656,
+          "volume24h": 19619656,
+          "highestBuyPriceFormatted": {
+            "copper": 99,
+            "silver": 90,
+            "gold": 17,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 91,
+            "silver": 60,
+            "gold": 23,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 78,
+            "silver": 15,
+            "gold": 2,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 21748,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Superior Sigil of Torment",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 48911,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/E42EB6198022E5B4D71C5EE41465DD4EB84A0465/665778.png",
+        "href": "/item/superior-sigil-of-torment-48911",
+        "stats": {
+          "highestBuyPrice": 140101,
+          "lowestSellPrice": 188491,
+          "priceDelta": null,
+          "profit": 20116,
+          "roi": null,
+          "marketCap": 169825119,
+          "volume24h": 31953537,
+          "highestBuyPriceFormatted": {
+            "copper": 1,
+            "silver": 1,
+            "gold": 14,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 91,
+            "silver": 84,
+            "gold": 18,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 16,
+            "silver": 1,
+            "gold": 2,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 55223,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Imperial Everbloom Sword Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 104221,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/A1CBF734BED82419A174FBC20C1E13A125372666/3584564.png",
+        "href": "/item/imperial-everbloom-sword-skin-104221",
+        "stats": {
+          "highestBuyPrice": 320000,
+          "lowestSellPrice": 400116,
+          "priceDelta": null,
+          "profit": 20098,
+          "roi": null,
+          "marketCap": 153100915,
+          "volume24h": 12110881,
+          "highestBuyPriceFormatted": {
+            "copper": 0,
+            "silver": 0,
+            "gold": 32,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 16,
+            "silver": 1,
+            "gold": 40,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 98,
+            "silver": 0,
+            "gold": 2,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 27317,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Rare Rift Motivation",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Gizmo",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 100941,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/0EC15FF7A255D7F12C2026DADE351C6C9DBA9807/3122098.png",
+        "href": "/item/rare-rift-motivation-100941",
+        "stats": {
+          "highestBuyPrice": 43091,
+          "lowestSellPrice": 69587,
+          "priceDelta": null,
+          "profit": 16057,
+          "roi": null,
+          "marketCap": 21968298,
+          "volume24h": 21418723,
+          "highestBuyPriceFormatted": {
+            "copper": 91,
+            "silver": 30,
+            "gold": 4,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 87,
+            "silver": 95,
+            "gold": 6,
+            "length": 5
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 57,
+            "silver": 60,
+            "gold": 1,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 10884,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Superior Sigil of Paralyzation",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 24639,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/0C1378BB6AADCB1C157332776C3476EBC66CD2DA/220665.png",
+        "href": "/item/superior-sigil-of-paralyzation-24639",
+        "stats": {
+          "highestBuyPrice": 70032,
+          "lowestSellPrice": 99991,
+          "priceDelta": null,
+          "profit": 14960,
+          "roi": null,
+          "marketCap": 4853452,
+          "volume24h": 10299237,
+          "highestBuyPriceFormatted": {
+            "copper": 32,
+            "silver": 0,
+            "gold": 7,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 91,
+            "silver": 99,
+            "gold": 9,
+            "length": 5
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 60,
+            "silver": 49,
+            "gold": 1,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 4257,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "20 Slot Hardened Leather Pack",
+        "description": null,
+        "rarity": "Basic",
+        "type": "Bag",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 9581,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/A149FD302E9128B0DEFAF7BA71726A5842B7D2EB/222426.png",
+        "href": "/item/20-slot-hardened-leather-pack-9581",
+        "stats": {
+          "highestBuyPrice": 100002,
+          "lowestSellPrice": 134768,
+          "priceDelta": null,
+          "profit": 14550,
+          "roi": null,
+          "marketCap": 104983357,
+          "volume24h": 16951721,
+          "highestBuyPriceFormatted": {
+            "copper": 2,
+            "silver": 0,
+            "gold": 10,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 68,
+            "silver": 47,
+            "gold": 13,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 50,
+            "silver": 45,
+            "gold": 1,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 25833,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Glyph of Reaping (Unused)",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Container",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 90726,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/E44B5D2570B3F371250BB840B654531E26709FFB/2140567.png",
+        "href": "/item/glyph-of-reaping-unused-90726",
+        "stats": {
+          "highestBuyPrice": 1270018,
+          "lowestSellPrice": 1509999,
+          "priceDelta": null,
+          "profit": 13481,
+          "roi": null,
+          "marketCap": 241003310,
+          "volume24h": 10719994,
+          "highestBuyPriceFormatted": {
+            "copper": 18,
+            "silver": 0,
+            "gold": 127,
+            "length": 7
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 99,
+            "silver": 99,
+            "gold": 150,
+            "length": 7
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 81,
+            "silver": 34,
+            "gold": 1,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 20865,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Zojja''s Berserker Inscription",
+        "description": null,
+        "rarity": "Ascended",
+        "type": "CraftingMaterial",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 46695,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/F6A599BF0BCF4F77A3C57BF81F3C0CD1513A06BC/674815.png",
+        "href": "/item/zojjas-berserker-inscription-46695",
+        "stats": {
+          "highestBuyPrice": 269985,
+          "lowestSellPrice": 332882,
+          "priceDelta": null,
+          "profit": 12964,
+          "roi": null,
+          "marketCap": 92995261,
+          "volume24h": 16599178,
+          "highestBuyPriceFormatted": {
+            "copper": 85,
+            "silver": 99,
+            "gold": 26,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 82,
+            "silver": 28,
+            "gold": 33,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 64,
+            "silver": 29,
+            "gold": 1,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 26983,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Dokkaebi Dagger Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 99074,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/567B0E3FFBAB5A7EB224E4A6DD602B57D1DAA47A/2752405.png",
+        "href": "/item/dokkaebi-dagger-skin-99074",
+        "stats": {
+          "highestBuyPrice": 91016,
+          "lowestSellPrice": 121006,
+          "priceDelta": null,
+          "profit": 11839,
+          "roi": null,
+          "marketCap": 25457208,
+          "volume24h": 10808950,
+          "highestBuyPriceFormatted": {
+            "copper": 16,
+            "silver": 10,
+            "gold": 9,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 6,
+            "silver": 10,
+            "gold": 12,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 39,
+            "silver": 18,
+            "gold": 1,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 4263,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "20 Slot Orichalcum Box",
+        "description": null,
+        "rarity": "Basic",
+        "type": "Bag",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 9591,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/FE2CFC2DF2AA02C24C9FE810119D0539266CDB42/222418.png",
+        "href": "/item/20-slot-orichalcum-box-9591",
+        "stats": {
+          "highestBuyPrice": 99590,
+          "lowestSellPrice": 129748,
+          "priceDelta": null,
+          "profit": 10695,
+          "roi": null,
+          "marketCap": 69571527,
+          "volume24h": 11298081,
+          "highestBuyPriceFormatted": {
+            "copper": 90,
+            "silver": 95,
+            "gold": 9,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 48,
+            "silver": 97,
+            "gold": 12,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 95,
+            "silver": 6,
+            "gold": 1,
+            "length": 5
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 26064,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Glyph of Overload (Unused)",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Container",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 92915,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/B05A41DEB31164EBC835CA1562366D02512EB1FA/2261377.png",
+        "href": "/item/glyph-of-overload-unused-92915",
+        "stats": {
+          "highestBuyPrice": 76000,
+          "lowestSellPrice": 100000,
+          "priceDelta": null,
+          "profit": 9000,
+          "roi": null,
+          "marketCap": 95483862,
+          "volume24h": 10269811,
+          "highestBuyPriceFormatted": {
+            "copper": 0,
+            "silver": 60,
+            "gold": 7,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 0,
+            "silver": 0,
+            "gold": 10,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 0,
+            "silver": 90,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 22319,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Grow Lamp",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "Trophy",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 66993,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/A3F044BBD2AD33A4CAC1F00276A633392A59C7FD/855360.png",
+        "href": "/item/grow-lamp-66993",
+        "stats": {
+          "highestBuyPrice": 161000,
+          "lowestSellPrice": 199897,
+          "priceDelta": null,
+          "profit": 8912,
+          "roi": null,
+          "marketCap": 234506421,
+          "volume24h": 13832738,
+          "highestBuyPriceFormatted": {
+            "copper": 0,
+            "silver": 10,
+            "gold": 16,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 97,
+            "silver": 98,
+            "gold": 19,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 12,
+            "silver": 89,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 19653,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Jorbreaker",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "Trophy",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 43320,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/D1679CEA0B0207B8D196F1F39C913C14CB282901/591443.png",
+        "href": "/item/jorbreaker-43320",
+        "stats": {
+          "highestBuyPrice": 42286,
+          "lowestSellPrice": 59378,
+          "priceDelta": null,
+          "profit": 8185,
+          "roi": null,
+          "marketCap": 666171739,
+          "volume24h": 21746432,
+          "highestBuyPriceFormatted": {
+            "copper": 86,
+            "silver": 22,
+            "gold": 4,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 78,
+            "silver": 93,
+            "gold": 5,
+            "length": 5
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 85,
+            "silver": 81,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 26803,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Scavenger Protocol: Magic Trophies",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "JadeTechModule",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 97535,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/CB6403024503D49831D424245A552DE5B747DD0E/2595079.png",
+        "href": "/item/scavenger-protocol-magic-trophies-97535",
+        "stats": {
+          "highestBuyPrice": 101512,
+          "lowestSellPrice": 128796,
+          "priceDelta": null,
+          "profit": 7964,
+          "roi": null,
+          "marketCap": 27914282,
+          "volume24h": 10969510,
+          "highestBuyPriceFormatted": {
+            "copper": 12,
+            "silver": 15,
+            "gold": 10,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 96,
+            "silver": 87,
+            "gold": 12,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 64,
+            "silver": 79,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 26985,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Dokkaebi Rifle Skin",
+        "description": null,
+        "rarity": "Rare",
+        "type": "Consumable",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 99077,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/0A307808FBF3F2DFC5A1280541370962C8D8CFCB/2752413.png",
+        "href": "/item/dokkaebi-rifle-skin-99077",
+        "stats": {
+          "highestBuyPrice": 171037,
+          "lowestSellPrice": 209999,
+          "priceDelta": null,
+          "profit": 7462,
+          "roi": null,
+          "marketCap": 42076317,
+          "volume24h": 27322679,
+          "highestBuyPriceFormatted": {
+            "copper": 37,
+            "silver": 10,
+            "gold": 17,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 99,
+            "silver": 99,
+            "gold": 20,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 62,
+            "silver": 74,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 21587,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Candy Corn Cob",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "Trophy",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 47909,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/1DEF3570D7499802B6D3F66756DF28C39536BCF5/648116.png",
+        "href": "/item/candy-corn-cob-47909",
+        "stats": {
+          "highestBuyPrice": 43503,
+          "lowestSellPrice": 58383,
+          "priceDelta": null,
+          "profit": 6122,
+          "roi": null,
+          "marketCap": 264265057,
+          "volume24h": 11525010,
+          "highestBuyPriceFormatted": {
+            "copper": 3,
+            "silver": 35,
+            "gold": 4,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 83,
+            "silver": 83,
+            "gold": 5,
+            "length": 5
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 22,
+            "silver": 61,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 26044,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Amalgamated Draconic Lodestone",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "Trophy",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 92687,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/CEBF06A096D0EB0AF0410CA90370F0157F70A921/2247707.png",
+        "href": "/item/amalgamated-draconic-lodestone-92687",
+        "stats": {
+          "highestBuyPrice": 158019,
+          "lowestSellPrice": 193069,
+          "priceDelta": null,
+          "profit": 6089,
+          "roi": null,
+          "marketCap": 311141353,
+          "volume24h": 43598842,
+          "highestBuyPriceFormatted": {
+            "copper": 19,
+            "silver": 80,
+            "gold": 15,
+            "length": 6
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 69,
+            "silver": 30,
+            "gold": 19,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 89,
+            "silver": 60,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 21823,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "+10 Agony Infusion",
+        "description": null,
+        "rarity": "Ascended",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 49433,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/0C06583A5CC59D4974101F5C0EAFAE7E0C6B5CE7/1465585.png",
+        "href": "/item/+10-agony-infusion-49433",
+        "stats": {
+          "highestBuyPrice": 96517,
+          "lowestSellPrice": 119996,
+          "priceDelta": null,
+          "profit": 5479,
+          "roi": null,
+          "marketCap": 415255335,
+          "volume24h": 24037862,
+          "highestBuyPriceFormatted": {
+            "copper": 17,
+            "silver": 65,
+            "gold": 9,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 96,
+            "silver": 99,
+            "gold": 11,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 79,
+            "silver": 54,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 19903,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Superior Sigil of Malice",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 44950,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/797D052CB4EA63A61A3225962128D197ACB3ED17/619709.png",
+        "href": "/item/superior-sigil-of-malice-44950",
+        "stats": {
+          "highestBuyPrice": 90853,
+          "lowestSellPrice": 111800,
+          "priceDelta": null,
+          "profit": 4177,
+          "roi": null,
+          "marketCap": 42039420,
+          "volume24h": 12525067,
+          "highestBuyPriceFormatted": {
+            "copper": 53,
+            "silver": 8,
+            "gold": 9,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 0,
+            "silver": 18,
+            "gold": 11,
+            "length": 6
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 77,
+            "silver": 41,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 11089,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Superior Sigil of Impact",
+        "description": null,
+        "rarity": "Exotic",
+        "type": "UpgradeComponent",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 24868,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/D9ACA0C94D90A76B1C500D5DE6D62B6820FEDAE2/221170.png",
+        "href": "/item/superior-sigil-of-impact-24868",
+        "stats": {
+          "highestBuyPrice": 61968,
+          "lowestSellPrice": 77692,
+          "priceDelta": null,
+          "profit": 4070,
+          "roi": null,
+          "marketCap": 26268483,
+          "volume24h": 37696799,
+          "highestBuyPriceFormatted": {
+            "copper": 68,
+            "silver": 19,
+            "gold": 6,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 92,
+            "silver": 76,
+            "gold": 7,
+            "length": 5
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 70,
+            "silver": 40,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      },
+      {
+        "id": 22952,
+        "createdAt": null,
+        "updatedAt": null,
+        "name": "Jeweled Damask Patch",
+        "description": null,
+        "rarity": "Ascended",
+        "type": "CraftingMaterial",
+        "vendorValue": null,
+        "default_skin_id": null,
+        "itemId": 70992,
+        "flags": null,
+        "game_types": null,
+        "restrictions": null,
+        "chatLink": null,
+        "icon": "https://render.guildwars2.com/file/C904D7ABDA5B972F6F34FA5B6A9A5BBBC1E61D53/1201849.png",
+        "href": "/item/jeweled-damask-patch-70992",
+        "stats": {
+          "highestBuyPrice": 78199,
+          "lowestSellPrice": 96695,
+          "priceDelta": null,
+          "profit": 3991,
+          "roi": null,
+          "marketCap": 248763529,
+          "volume24h": 16889911,
+          "highestBuyPriceFormatted": {
+            "copper": 99,
+            "silver": 81,
+            "gold": 7,
+            "length": 5
+          },
+          "lowestSellPriceFormatted": {
+            "copper": 95,
+            "silver": 66,
+            "gold": 9,
+            "length": 5
+          },
+          "priceDeltaFormatted": {
+            "copper": null,
+            "silver": null,
+            "gold": null,
+            "length": 9
+          },
+          "profitFormatted": {
+            "copper": 91,
+            "silver": 39,
+            "gold": 0,
+            "length": 4
+          }
+        },
+        "itemListings": null,
+        "itemPrices": null
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 50,
+        "pageCount": 5,
+        "total": 201
+      }
+    }
+  },
+  "query": {
+    "type": "",
+    "rarity": "",
+    "page": 1,
+    "sortBy": "stat_profit:desc",
+    "filters": [
+      {
+        "name": "buy",
+        "min": 0,
+        "max": 1500000,
+        "id": 2
+      },
+      {
+        "name": "sell",
+        "min": 0,
+        "max": 5000000,
+        "id": 3
+      },
+      {
+        "name": "volume24h",
+        "min": 10000000,
+        "max": 0,
+        "id": 4
+      }
+    ]
+  }
+}
