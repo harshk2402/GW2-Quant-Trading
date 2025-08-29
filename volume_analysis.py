@@ -53,7 +53,7 @@ def poisson_exit_probability(T: float, rate: float) -> float:
     return 1.0 - math.exp(-rate * T)
 
 
-def volume_analysis(
+def analyse_volume(
     daily_volume_data: list, stats: dict, lookback_days=14, conservative=True
 ) -> dict:
     hb = stats.get("highestBuyPrice", 0.0)
@@ -167,13 +167,14 @@ def volume_analysis(
     }
 
 
-if __name__ == "__main__":
-    min_buy_gold = 0
-    max_buy_gold = 200
-    min_sell_gold = 0
-    max_sell_gold = 500
-    min_vol_24h_gold = 1000
-    max_vol_24h_gold = 0
+def volume_analysis(
+    min_buy_gold=10,
+    max_buy_gold=100,
+    min_sell_gold=10,
+    max_sell_gold=1000,
+    min_vol_24h_gold=10,
+    max_vol_24h_gold=10000,
+):
 
     trader = GW2Trader()
     item_data = trader.get_flippable_items(
@@ -237,7 +238,7 @@ if __name__ == "__main__":
         daily_vals = calc_daily_avg_volumes(
             hourly_data
         )  # list of value_24h per day (copper)
-        res = volume_analysis(
+        res = analyse_volume(
             daily_vals, stats=stats, lookback_days=14, conservative=True
         )
         rows.append(
