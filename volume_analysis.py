@@ -46,7 +46,7 @@ def calc_daily_avg_volumes(hourly_data: list) -> list:
 
 def poisson_exit_probability(T: float, rate: float) -> float:
     """
-    Calculate the probabilities of H units exiting within time T1, T2, ...
+    Calculate the probabilities of H units exiting within time T1, T2, ...      (Todo)
     """
     if rate <= 0:
         return 0.0
@@ -167,6 +167,16 @@ def analyse_volume(
     }
 
 
+def sort_by_roi(item):
+    stats = item["stats"]
+    hb = stats.get("highestBuyPrice", 0.0)
+    ls = stats.get("lowestSellPrice", 0.0)
+
+    roi_pct = (((0.85 * ls) - hb) / hb * 100) if hb > 0 else None
+
+    return roi_pct if roi_pct is not None else 0.0
+
+
 def volume_analysis(
     min_buy_gold=10,
     max_buy_gold=100,
@@ -189,7 +199,9 @@ def volume_analysis(
     item_list = []
     item_list = item_data["items"]["data"]
 
-    item_list = item_list[:10]  # Limit to first 20 items
+    item_list.sort(key=sort_by_roi, reverse=True)
+
+    item_list = item_list[:20]  # Limit to first 20 items
 
     rows = []
 
