@@ -370,6 +370,10 @@ def append_to_excel(ledger_rows: List[Dict[str, Any]], xlsx_path: str) -> None:
     else:
         combined = new_df
 
+    # How many NEW rows are being added in this run (after de-dup)
+    added_rows = len(new_df)
+    print(f"New rows added this run: {added_rows}")
+
     # Ensure Sell Date is a true datetime64[ns] (Excel-friendly serial dates)
     if "Sell Date (EST)" in combined.columns:
         combined["Sell Date (EST)"] = pd.to_datetime(

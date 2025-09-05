@@ -218,7 +218,7 @@ def volume_analysis(
         roi_pct = (((0.85 * ls) - hb) / hb * 100) if hb > 0 else None
 
         print(
-            f"Item name: {item_name}  Item ID: {item_id}  Expected Profit: {expected_profit_gold:0.4f}g"
+            f"Item name: {item_name}  Item ID: {item_id}  Expected ROI: {roi_pct:0.2f}% Expected Profit: {expected_profit_gold:0.2f}g"
         )
 
         payload = trader.get_hourly_data(item_id)
@@ -234,7 +234,7 @@ def volume_analysis(
                     "id": item_id,
                     "highestBuyPrice": hb,
                     "lowestSellPrice": ls,
-                    "expected_profit_gold": expected_profit_gold,
+                    "expected_profit_gold": float(f"{expected_profit_gold:.4f}"),
                     "roi_pct": roi_pct,
                     "status": "NO_DATA",
                     "T_days": None,
@@ -259,7 +259,7 @@ def volume_analysis(
                 "id": item_id,
                 "highestBuyPrice": hb,
                 "lowestSellPrice": ls,
-                "expected_profit_gold": expected_profit_gold,
+                "expected_profit_gold": float(f"{expected_profit_gold:.4f}"),
                 "roi_pct": roi_pct,
                 "status": res.get("status"),
                 "T_days": res.get("T_days"),
